@@ -21,8 +21,11 @@
         </style>
         @livewireStyles
     </head>
-    <body class="bg-gray-800">
+    <body class="bg-gray-800 flex gap-10 justify-center">
         
-        @livewireScripts
+        <livewire:calculator />
+        
+        
+        <livewire:scripts />
     </body>
 </html>
