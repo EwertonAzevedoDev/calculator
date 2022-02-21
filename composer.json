@@ -59,6 +59,5 @@
         "sort-packages": true
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
-    "psr/container": "1.0.0"
+    "prefer-stable": true
 }
